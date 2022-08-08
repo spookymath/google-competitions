@@ -1,1 +1,1 @@
-# google-competitions
+<p align="center"> <b> google-competitions </b> </p>
